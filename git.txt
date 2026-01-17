@@ -1,0 +1,7 @@
+Explicación comandos 
+git clone: Clona un repositorio remoto como GitHub en mi ordenador, creando una copia local completa para trabajar.
+git status: Muestra el estado del repositorio local, es decir, la rama actual en la que me encuentro, los archivos modificados y si están sincronizados con lo que hay en remoto.
+git add: Añade archivos nuevos o modificados al "área de preparación" para que puedan incluirse en el próximo commit.
+git commit -m "mensaje": Guarda localmente los cambios añadidos con un mensaje descriptivo que explica la actualización realizada.
+git push: Sube al repositorio remoto los commits realizados en el repositorio local para sincronizar ambos.
+git checkout: Permite cambiar entre ramas existentes o crear una nueva rama de trabajo, gestionando distintas versiones del proyecto. Habitualmente se trabaja con distintas ramas de desarrollo y se integra el resultado final en la rama principal (main).
