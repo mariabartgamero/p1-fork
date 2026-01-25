@@ -4,7 +4,7 @@ Esta práctica tiene como objetivo aprender a trabajar con Git y GitHub, así co
 
 ## 1. Trabajo con Git y GitHub
 
-Se ha clonado el repositorio, creado y modificado archivos, se han añadido cambios al área de preparación, realizado commits y enviado las actualizaciones al repositorio remoto.
+  Se ha clonado el repositorio, creado y modificado archivos, se han añadido cambios al área de preparación, realizado commits y enviado las actualizaciones al repositorio remoto.
 La explicación detallada de los comandos utilizados se encuentra en el archivo git.txt y a continuación se muestra una captura con las evidencias del proceso realizado.
 
 ![Primeros_parte](imagenes/comandos.png)
@@ -13,13 +13,12 @@ La explicación detallada de los comandos utilizados se encuentra en el archivo 
 
 Se ha verificado la instalación del software requerido:
 
-Java 21, comprobado mediante java --version.
-
-Maven, comprobado mediante mvn --version.
+- Java 21, comprobado mediante java --version.
+- Maven, comprobado mediante mvn --version.
 
 ![Version](imagenes/version.png)
 
-Además, se ha accedido al repositorio desde IntelliJ IDEA, configurando el SDK de Java 21 para el proyecto. Desde el propio IDE se ha creado el archivo entorno.txt, se han realizado nuevos commits y se han subido los cambios a GitHub.
+  Además, se ha accedido al repositorio desde IntelliJ IDEA, configurando el SDK de Java 21 para el proyecto. Desde el propio IDE se ha creado el archivo entorno.txt, se han realizado nuevos commits y se han subido los cambios a GitHub.
 
 ![SDK](imagenes/sdk.png)
 
@@ -27,7 +26,7 @@ Además, se ha accedido al repositorio desde IntelliJ IDEA, configurando el SDK 
 
 ![Commit](imagenes/commitentorno.png)
 
-Por último se ha editado el README.md añadiendo las capturas relevantes a este y a la carpeta imagenes del repositorio. 
+  Por último se ha editado el README.md añadiendo las capturas relevantes a este y a la carpeta imagenes del repositorio. 
 
 ![README](imagenes/readme.png)
 
