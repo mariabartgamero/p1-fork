@@ -7,7 +7,7 @@ Esta práctica tiene como objetivo aprender a trabajar con Git y GitHub, así co
 Se ha clonado el repositorio, creado y modificado archivos, se han añadido cambios al área de preparación, realizado commits y enviado las actualizaciones al repositorio remoto.
 La explicación detallada de los comandos utilizados se encuentra en el archivo git.txt y a continuación se muestra una captura con las evidencias del proceso realizado.
 
-![Primeros_parte](imagenes/Captura de pantalla 2026-01-17 a las 21.12.49.png)
+![Primeros_parte](imagenes/comandos.png)
 
 ## 2. Entorno de Desarrollo
 
@@ -17,19 +17,19 @@ Java 21, comprobado mediante java --version.
 
 Maven, comprobado mediante mvn --version.
 
-![Version](imagenes/Captura de pantalla 2026-01-25 a las 12.54.31.png)
+![Version](imagenes/version.png)
 
 Además, se ha accedido al repositorio desde IntelliJ IDEA, configurando el SDK de Java 21 para el proyecto. Desde el propio IDE se ha creado el archivo entorno.txt, se han realizado nuevos commits y se han subido los cambios a GitHub.
 
-![SDK](imagenes/Captura de pantalla 2026-01-19 a las 12.45.09.png)
+![SDK](imagenes/sdk.png)
 
-![Entorno](imagenes/Captura de pantalla 2026-01-19 a las 12.47.18.png)
+![Entorno](imagenes/entorno.png)
 
-![Commit](imagenes/Captura de pantalla 2026-01-19 a las 12.53.00.png)
+![Commit](imagenes/commitentorno.png)
 
 Por último se ha editado el README.md añadiendo las capturas relevantes a este y a la carpeta imagenes del repositorio. 
 
-![README](imagenes/Captura de pantalla 2026-01-25 a las 13.25.17.png)
+![README](imagenes/readme.png)
 
 ## 3. Estructura del Repositorio
 
