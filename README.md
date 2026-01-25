@@ -34,13 +34,10 @@ Se ha verificado la instalación del software requerido:
 
 El repositorio contiene los siguientes elementos principales:
 
-git.txt – Explicación de los comandos Git utilizados.
-
-entorno.txt – Creación del archivo mediante IntelliJ.
-
-README.md – Informe general de la práctica.
-
-Carpeta imagenes - Capturas del proceso.
+- git.txt – Explicación de los comandos Git utilizados.
+- entorno.txt – Creación del archivo mediante IntelliJ.
+- README.md – Informe general de la práctica.
+- Carpeta imagenes - Capturas del proceso.
 
 ## 4. Conclusión
 
