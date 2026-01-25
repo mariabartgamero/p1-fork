@@ -1,8 +1,7 @@
 # Práctica 1 – Git, GitHub y Entorno de Desarrollo Java
 
-Esta práctica tiene como objetivo aprender a trabajar con Git y GitHub, así como instalar y verificar el entorno de desarrollo necesario para Java. 
-
-Para ello se ha realizado un fork del repositorio original, se ha trabajado en local con los comandos solicitados y finalmente se han subido todos los cambios al repositorio remoto.
+### Objetivo:
+Esta práctica tiene como objetivo aprender a trabajar con Git y GitHub, así como instalar y verificar el entorno de desarrollo necesario para Java. Para ello se ha realizado un fork del repositorio original, se ha trabajado en local con los comandos solicitados y finalmente se han subido todos los cambios al repositorio remoto.
 
 ## 1. Trabajo con Git y GitHub
 
