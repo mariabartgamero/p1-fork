@@ -8,7 +8,7 @@ Para ello se ha realizado un fork del repositorio original, se ha trabajado en l
 
   Se ha clonado el repositorio, creado y modificado archivos, se han añadido cambios al área de preparación, realizado commits y enviado las actualizaciones al repositorio remoto.
 
-La explicación detallada de los comandos utilizados se encuentra en el archivo git.txt y a continuación se muestra una captura con las evidencias del proceso realizado.
+La explicación detallada de los comandos utilizados se encuentra en el archivo [git.txt](./git.txt) y a continuación se muestra una captura con las evidencias del proceso realizado.
 
 ![Primeros_parte](imagenes/comandos.png)
 
@@ -37,10 +37,10 @@ Se ha verificado la instalación del software requerido:
 
 El repositorio contiene los siguientes elementos principales:
 
-- git.txt – Explicación de los comandos Git utilizados.
-- entorno.txt – Creación del archivo mediante IntelliJ.
-- README.md – Informe general de la práctica.
-- imagenes/ - Capturas del proceso.
+- [git.txt](./git.txt) – Explicación de los comandos Git utilizados.
+- [entorno.txt](./entorno.txt) – Creación del archivo mediante IntelliJ.
+- [README.md](./README.md) – Informe general de la práctica.
+- [Carpeta imagenes](./imagenes)- Capturas del proceso.
 
 ## 4. Conclusión
 
